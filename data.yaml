@@ -1,0 +1,6 @@
+train: C:/Users/Prajwal K N/InsulatorDatastore/train/images
+val: C:/Users/Prajwal K N/InsulatorDatastore/valid/images
+test: C:/Users/Prajwal K N/InsulatorDatastore/test/images
+
+nc: 2
+names: ["normal", "defective"]
